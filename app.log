@@ -1,0 +1,1539 @@
+2025-07-31 11:33:27,153 - app - INFO - Application starting up...
+2025-07-31 11:33:27,407 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:33:27,407 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-31 11:33:27,409 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 11:33:29,091 - app - INFO - Application starting up...
+2025-07-31 11:33:29,191 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 11:33:29,194 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-07-31 11:33:42,095 - app - INFO - Application starting up...
+2025-07-31 11:33:42,228 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:33:42,230 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-31 11:33:42,232 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 11:33:43,755 - app - INFO - Application starting up...
+2025-07-31 11:33:43,841 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 11:33:43,845 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-07-31 11:34:30,549 - app - INFO - Application starting up...
+2025-07-31 11:34:30,686 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:34:30,686 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-31 11:34:30,689 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 11:34:34,112 - app - INFO - Application starting up...
+2025-07-31 11:34:34,201 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 11:34:34,205 - werkzeug - INFO -  * Debugger PIN: 738-249-922
+2025-07-31 11:36:05,629 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:36:05] "GET / HTTP/1.1" 200 -
+2025-07-31 11:36:05,757 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:36:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-31 11:36:06,394 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:36:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-31 11:36:11,118 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:36:11] "GET /register HTTP/1.1" 200 -
+2025-07-31 11:36:11,170 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:36:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-31 11:36:23,063 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:36:23] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2025-07-31 11:36:23,147 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:36:23] "GET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-07-31 11:36:23,170 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:36:23] "GET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-07-31 11:36:23,312 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:36:23] "GET /register?__debugger__=yes&cmd=resource&f=console.png&s=vQzHdB5gxCftF5cUANwO HTTP/1.1" 200 -
+2025-07-31 11:36:23,314 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:36:23] "GET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-07-31 11:36:23,373 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:36:23] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-07-31 11:39:35,319 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-07-31 11:39:35,434 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 11:39:35,637 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-07-31 11:39:36,515 - app - INFO - Application starting up...
+2025-07-31 11:39:36,567 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 11:39:36,568 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-07-31 11:40:26,595 - app - INFO - Application starting up...
+2025-07-31 11:40:26,657 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:40:26,657 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-31 11:40:26,658 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 11:40:28,587 - app - INFO - Application starting up...
+2025-07-31 11:40:28,641 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 11:40:28,644 - werkzeug - INFO -  * Debugger PIN: 738-249-922
+2025-07-31 11:40:44,104 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:40:44] "GET / HTTP/1.1" 200 -
+2025-07-31 11:40:44,164 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:40:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-31 11:40:46,500 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:40:46] "GET /register HTTP/1.1" 200 -
+2025-07-31 11:40:46,539 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:40:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-31 11:41:00,585 - app - WARNING - Registration attempt failed for 'Reezwan': Username already exists.
+2025-07-31 11:41:00,587 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:41:00] "POST /register HTTP/1.1" 200 -
+2025-07-31 11:41:00,613 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:41:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-31 11:41:05,172 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:41:05] "GET /login HTTP/1.1" 200 -
+2025-07-31 11:41:05,199 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:41:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-31 11:41:11,534 - app - INFO - User 'Reezwan' logged in successfully.
+2025-07-31 11:41:11,535 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:41:11] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-07-31 11:41:11,589 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:41:11] "[35m[1mGET /home HTTP/1.1[0m" 500 -
+2025-07-31 11:41:11,623 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:41:11] "GET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-07-31 11:41:11,624 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:41:11] "GET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-07-31 11:41:11,709 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:41:11] "GET /home?__debugger__=yes&cmd=resource&f=console.png&s=OAgkTbcEOXYVejCWoZa2 HTTP/1.1" 200 -
+2025-07-31 11:41:11,710 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:41:11] "GET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-07-31 11:41:11,746 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:41:11] "[36mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-07-31 11:45:00,374 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-07-31 11:45:00,480 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 11:45:00,849 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-07-31 11:45:01,625 - app - INFO - Application starting up...
+2025-07-31 11:45:01,644 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 11:45:01,681 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 11:45:01,683 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-07-31 11:45:31,042 - app - INFO - Application starting up...
+2025-07-31 11:45:31,059 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 11:45:31,107 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:45:31,107 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-31 11:45:31,108 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 11:45:31,965 - app - INFO - Application starting up...
+2025-07-31 11:45:31,980 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 11:45:32,017 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 11:45:32,018 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-07-31 11:47:19,069 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-07-31 11:47:19,181 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 11:47:19,329 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-07-31 11:47:19,443 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 11:47:20,250 - app - INFO - Application starting up...
+2025-07-31 11:47:20,270 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 11:47:20,340 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 11:47:20,342 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-07-31 11:47:20,482 - app - INFO - Application starting up...
+2025-07-31 11:47:20,501 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 11:47:20,537 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 11:47:20,539 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-07-31 11:47:36,129 - app - INFO - Application starting up...
+2025-07-31 11:47:36,146 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 11:47:36,189 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:47:36,189 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-31 11:47:36,190 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 11:47:38,202 - app - INFO - Application starting up...
+2025-07-31 11:47:38,223 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 11:47:38,259 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 11:47:38,262 - werkzeug - INFO -  * Debugger PIN: 738-249-922
+2025-07-31 11:48:08,241 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:48:08] "GET / HTTP/1.1" 200 -
+2025-07-31 11:48:08,318 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:48:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-31 11:48:08,655 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:48:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-31 11:48:14,560 - app - INFO - User 'Reezwan' logged in successfully.
+2025-07-31 11:48:14,561 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:48:14] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-07-31 11:48:14,570 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:48:14] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-07-31 11:48:14,607 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:48:14] "GET /client_dashboard HTTP/1.1" 200 -
+2025-07-31 11:48:14,646 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:48:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-31 11:48:14,666 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:48:14] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-07-31 11:48:24,735 - app - INFO - User 'Reezwan' logged out successfully.
+2025-07-31 11:48:24,736 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:48:24] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-07-31 11:48:24,743 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:48:24] "GET /login HTTP/1.1" 200 -
+2025-07-31 11:48:24,780 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:48:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-31 11:48:54,131 - app - INFO - User 'Reezwan' logged in successfully.
+2025-07-31 11:48:54,133 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:48:54] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-07-31 11:48:54,140 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:48:54] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-07-31 11:48:54,148 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:48:54] "GET /client_dashboard HTTP/1.1" 200 -
+2025-07-31 11:48:54,183 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:48:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-31 11:48:54,185 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:48:54] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-07-31 11:48:57,719 - app - INFO - User 'Reezwan' submitted URL for check: 'https://microsftsent1.wixsite.com/accountsshopifyc... '
+2025-07-31 11:48:57,837 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:48:57] "POST /check_url HTTP/1.1" 200 -
+2025-07-31 11:49:14,014 - app - INFO - User 'Reezwan' submitted URL for check: 'http://https-www-paypal-it-webapps-mpp-home.soft-hair.com/'
+2025-07-31 11:49:14,137 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 11:49:14] "POST /check_url HTTP/1.1" 200 -
+2025-07-31 11:52:20,495 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-07-31 11:52:24,106 - app - INFO - Application starting up...
+2025-07-31 11:52:24,126 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 11:52:24,169 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:52:24,169 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-31 11:52:24,170 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 11:52:26,206 - app - INFO - Application starting up...
+2025-07-31 11:52:26,227 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 11:52:26,264 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 11:52:26,267 - werkzeug - INFO -  * Debugger PIN: 738-249-922
+2025-07-31 11:55:55,547 - app - INFO - Application starting up...
+2025-07-31 11:55:55,563 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 11:55:55,611 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:55:55,611 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-31 11:55:55,612 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 11:55:56,499 - app - INFO - Application starting up...
+2025-07-31 11:55:56,515 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 11:55:56,548 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 11:55:56,550 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-07-31 11:56:33,652 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-07-31 11:56:33,753 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 11:56:34,681 - app - INFO - Application starting up...
+2025-07-31 11:56:34,698 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 11:56:34,736 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 11:56:34,738 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-07-31 11:56:35,750 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-07-31 11:56:35,855 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 11:56:36,824 - app - INFO - Application starting up...
+2025-07-31 11:56:36,842 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 11:56:36,879 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 11:56:36,881 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-07-31 11:56:47,808 - app - INFO - Application starting up...
+2025-07-31 11:56:47,828 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 11:56:47,872 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 11:56:47,872 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-31 11:56:47,873 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 11:56:49,865 - app - INFO - Application starting up...
+2025-07-31 11:56:49,884 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 11:56:49,920 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 11:56:49,923 - werkzeug - INFO -  * Debugger PIN: 738-249-922
+2025-07-31 14:05:04,678 - app - INFO - Application starting up...
+2025-07-31 14:05:04,708 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 14:05:04,765 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 14:05:04,768 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-07-31 14:05:20,893 - app - INFO - Application starting up...
+2025-07-31 14:05:20,929 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 14:05:21,029 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-31 14:05:21,029 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-31 14:05:21,032 - werkzeug - INFO -  * Restarting with stat
+2025-07-31 14:05:22,837 - app - INFO - Application starting up...
+2025-07-31 14:05:22,863 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-07-31 14:05:22,980 - werkzeug - WARNING -  * Debugger is active!
+2025-07-31 14:05:22,983 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-01 17:14:28,160 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-01 17:14:28,275 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:29:16,018 - app - INFO - Application starting up...
+2025-08-05 11:29:16,102 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:29:16,215 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 11:29:16,215 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 11:29:16,216 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:29:17,198 - app - INFO - Application starting up...
+2025-08-05 11:29:17,217 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:29:17,257 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:29:17,263 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:29:36,316 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 11:29:36,426 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:29:37,477 - app - INFO - Application starting up...
+2025-08-05 11:29:37,495 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:29:37,550 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:29:37,552 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:29:48,030 - app - INFO - Application starting up...
+2025-08-05 11:29:48,048 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:29:48,092 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 11:29:48,093 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 11:29:48,094 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:29:48,990 - app - INFO - Application starting up...
+2025-08-05 11:29:49,006 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:29:49,044 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:29:49,046 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:32:43,503 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 11:32:43,605 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:32:44,633 - app - INFO - Application starting up...
+2025-08-05 11:32:44,653 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:32:44,691 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:32:44,693 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:32:52,945 - app - INFO - Application starting up...
+2025-08-05 11:32:52,961 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:32:53,008 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 11:32:53,008 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 11:32:53,009 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:32:53,978 - app - INFO - Application starting up...
+2025-08-05 11:32:53,995 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:32:54,032 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:32:54,034 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:34:34,262 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 11:34:34,371 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:36:29,854 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:36:30,869 - app - INFO - Application starting up...
+2025-08-05 11:36:30,888 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:36:30,924 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:36:30,926 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:36:39,632 - app - INFO - Application starting up...
+2025-08-05 11:36:39,647 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:36:39,699 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 11:36:39,699 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 11:36:39,701 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:36:40,662 - app - INFO - Application starting up...
+2025-08-05 11:36:40,679 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:36:40,717 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:36:40,718 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:37:57,904 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 11:37:58,006 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:37:58,151 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 11:37:58,273 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:37:59,100 - app - INFO - Application starting up...
+2025-08-05 11:37:59,117 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:37:59,158 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:37:59,159 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:37:59,273 - app - INFO - Application starting up...
+2025-08-05 11:37:59,288 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:37:59,321 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:37:59,322 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:39:00,321 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 11:39:00,426 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:39:00,478 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 11:39:00,599 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:39:01,542 - app - INFO - Application starting up...
+2025-08-05 11:39:01,693 - app - INFO - Application starting up...
+2025-08-05 11:39:31,366 - app - INFO - Application starting up...
+2025-08-05 11:40:54,039 - app - INFO - Application starting up...
+2025-08-05 11:40:54,105 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 11:40:54,105 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 11:40:54,106 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:40:55,071 - app - INFO - Application starting up...
+2025-08-05 11:40:55,120 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:40:55,122 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:42:12,412 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 11:42:12,529 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:42:14,310 - app - INFO - Application starting up...
+2025-08-05 11:42:14,387 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:42:14,452 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:42:14,455 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:43:20,739 - app - INFO - Application starting up...
+2025-08-05 11:43:20,799 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 11:43:20,799 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 11:43:20,800 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:43:22,867 - app - INFO - Application starting up...
+2025-08-05 11:43:22,923 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:43:22,926 - werkzeug - INFO -  * Debugger PIN: 738-249-922
+2025-08-05 11:43:39,258 - app - INFO - Application starting up...
+2025-08-05 11:43:39,315 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 11:43:39,315 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 11:43:39,317 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:43:41,367 - app - INFO - Application starting up...
+2025-08-05 11:43:41,424 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:43:41,427 - werkzeug - INFO -  * Debugger PIN: 738-249-922
+2025-08-05 11:43:50,154 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 11:43:50] "[32mGET /client_dashboard HTTP/1.1[0m" 302 -
+2025-08-05 11:43:50,209 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 11:43:50] "GET /login?next=/client_dashboard HTTP/1.1" 200 -
+2025-08-05 11:43:50,584 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 11:43:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-05 11:43:56,963 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 11:43:56] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-08-05 11:43:57,064 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 11:43:57] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-08-05 11:43:57,067 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 11:43:57] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-08-05 11:43:57,104 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 11:43:57] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-08-05 11:43:57,105 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 11:43:57] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=2QKDPGNcChiRjnJ9pY9r HTTP/1.1" 200 -
+2025-08-05 11:43:57,154 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 11:43:57] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-08-05 11:44:34,351 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 11:44:35,077 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 11:45:09,537 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:45:11,596 - app - INFO - Application starting up...
+2025-08-05 11:45:11,616 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:45:11,651 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:45:11,654 - werkzeug - INFO -  * Debugger PIN: 738-249-922
+2025-08-05 11:46:55,368 - app - INFO - Application starting up...
+2025-08-05 11:46:55,385 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:46:55,433 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 11:46:55,433 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 11:46:55,434 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:46:56,393 - app - INFO - Application starting up...
+2025-08-05 11:46:56,415 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:46:56,463 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:46:56,465 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:48:02,635 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 11:48:02,743 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:48:03,749 - app - INFO - Application starting up...
+2025-08-05 11:48:03,772 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:48:03,811 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:48:03,813 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:48:22,451 - app - INFO - Application starting up...
+2025-08-05 11:48:22,468 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:48:22,513 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 11:48:22,513 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 11:48:22,514 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:48:23,418 - app - INFO - Application starting up...
+2025-08-05 11:48:23,434 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:48:23,468 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:48:23,470 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:49:14,590 - app - INFO - Application starting up...
+2025-08-05 11:49:14,655 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 11:49:14,655 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 11:49:14,656 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:49:15,619 - app - INFO - Application starting up...
+2025-08-05 11:49:15,671 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:49:15,672 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:53:20,288 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 11:53:20,389 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:53:21,450 - app - INFO - Application starting up...
+2025-08-05 11:53:21,504 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:53:21,506 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:53:35,385 - app - INFO - Application starting up...
+2025-08-05 11:53:35,473 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 11:53:35,473 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 11:53:35,476 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:53:36,360 - app - INFO - Application starting up...
+2025-08-05 11:53:36,409 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:53:36,411 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:55:17,670 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 11:55:17,778 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:55:59,853 - app - INFO - Application starting up...
+2025-08-05 11:55:59,872 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:55:59,919 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 11:55:59,919 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 11:55:59,920 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:56:00,813 - app - INFO - Application starting up...
+2025-08-05 11:56:00,831 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:56:00,868 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:56:00,869 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:56:13,912 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 11:56:14,013 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:56:15,057 - app - INFO - Application starting up...
+2025-08-05 11:56:15,110 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:56:15,113 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:56:29,098 - app - INFO - Application starting up...
+2025-08-05 11:56:29,160 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 11:56:29,160 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 11:56:29,162 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:56:30,101 - app - INFO - Application starting up...
+2025-08-05 11:56:30,151 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:56:30,154 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:57:19,821 - app - INFO - Application starting up...
+2025-08-05 11:57:19,837 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:57:19,883 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 11:57:19,883 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 11:57:19,885 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:57:20,786 - app - INFO - Application starting up...
+2025-08-05 11:57:20,801 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:57:20,835 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:57:20,837 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 11:59:14,451 - app - INFO - Application starting up...
+2025-08-05 11:59:14,469 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:59:14,518 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 11:59:14,518 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 11:59:14,520 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 11:59:15,458 - app - INFO - Application starting up...
+2025-08-05 11:59:15,475 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 11:59:15,516 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 11:59:15,518 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 12:00:49,078 - app - INFO - Application starting up...
+2025-08-05 12:00:49,140 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 12:00:49,140 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:00:49,141 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 12:00:50,047 - app - INFO - Application starting up...
+2025-08-05 12:00:50,120 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 12:00:50,122 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 12:03:16,932 - app - INFO - Application starting up...
+2025-08-05 12:03:16,990 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 12:03:16,990 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:03:16,991 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 12:03:17,875 - app - INFO - Application starting up...
+2025-08-05 12:03:17,924 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 12:03:17,925 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 12:03:35,468 - app - INFO - Application starting up...
+2025-08-05 12:03:35,529 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 12:03:35,529 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:03:35,531 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 12:03:36,435 - app - INFO - Application starting up...
+2025-08-05 12:03:36,484 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 12:03:36,485 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 12:04:45,419 - app - INFO - Application starting up...
+2025-08-05 12:04:45,455 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 12:04:45,455 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:05:47,060 - app - INFO - Application starting up...
+2025-08-05 12:05:47,114 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 12:05:47,114 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:05:47,115 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 12:05:48,020 - app - INFO - Application starting up...
+2025-08-05 12:05:48,058 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 12:05:48,060 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 12:08:32,428 - app - INFO - Application starting up...
+2025-08-05 12:08:32,477 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 12:08:32,477 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:08:32,478 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 12:08:33,403 - app - INFO - Application starting up...
+2025-08-05 12:08:33,445 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 12:08:33,446 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 12:10:59,444 - app - INFO - Application starting up...
+2025-08-05 12:10:59,491 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 12:10:59,491 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:10:59,492 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 12:11:00,376 - app - INFO - Application starting up...
+2025-08-05 12:11:00,412 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 12:11:00,414 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 12:11:12,768 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:11:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-05 12:11:15,918 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:11:15] "GET / HTTP/1.1" 200 -
+2025-08-05 12:11:15,983 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:11:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:11:22,402 - app - INFO - User 'Reezwan' logged in successfully.
+2025-08-05 12:11:22,403 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:11:22] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 12:11:22,410 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:11:22] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 12:11:22,439 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:11:22] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 12:11:22,475 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:11:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:11:22,494 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:11:22] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 12:11:42,141 - app - INFO - User 'Reezwan' submitted URL for check: 'https://hackr.io/tutorials/learn-user-interface-design'
+2025-08-05 12:11:42,922 - app - ERROR - Error checking with Google Safe Browse API for URL https://hackr.io/tutorials/learn-user-interface-design: 404 Client Error: Not Found for url: https://safebrowse.googleapis.com/v4/threatMatches:find?key=AIzaSyD6ErrsWyvbW7eiLepLlFmkxjXZ2ZPELig
+2025-08-05 12:11:42,922 - app - WARNING - Safe Browse API issue or skip. Proceeding with heuristics only for URL: https://hackr.io/tutorials/learn-user-interface-design
+2025-08-05 12:11:43,025 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:11:43] "POST /check_url HTTP/1.1" 200 -
+2025-08-05 12:12:10,372 - app - INFO - User 'Reezwan' logged out successfully.
+2025-08-05 12:12:10,373 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:12:10] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 12:12:10,385 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:12:10] "GET /login HTTP/1.1" 200 -
+2025-08-05 12:12:10,427 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:12:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:12:20,132 - app - INFO - User 'admin' logged in successfully.
+2025-08-05 12:12:20,133 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:12:20] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 12:12:20,141 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:12:20] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 12:12:20,149 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:12:20] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 12:12:24,987 - app - INFO - User 'admin' logged out successfully.
+2025-08-05 12:12:24,988 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:12:24] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 12:12:24,994 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:12:24] "GET /login HTTP/1.1" 200 -
+2025-08-05 12:12:25,030 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:12:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:12:27,663 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:12:27] "GET /register HTTP/1.1" 200 -
+2025-08-05 12:12:27,701 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:12:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:12:35,261 - app - WARNING - Registration attempt failed for 'Reezwan': Username already exists.
+2025-08-05 12:12:35,262 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:12:35] "POST /register HTTP/1.1" 200 -
+2025-08-05 12:12:35,289 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:12:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:12:38,678 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:12:38] "GET /login HTTP/1.1" 200 -
+2025-08-05 12:12:38,722 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:12:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:21:27,476 - app - INFO - Application starting up...
+2025-08-05 12:21:27,545 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 12:21:27,545 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:21:27,546 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 12:21:28,489 - app - INFO - Application starting up...
+2025-08-05 12:21:28,542 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 12:21:28,544 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 12:21:37,836 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:21:37] "GET / HTTP/1.1" 200 -
+2025-08-05 12:21:37,918 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:21:37] "GET /static/style.css HTTP/1.1" 200 -
+2025-08-05 12:21:45,068 - app - INFO - User 'Reezwan' logged in successfully.
+2025-08-05 12:21:45,069 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:21:45] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 12:21:45,077 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:21:45] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 12:21:45,108 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:21:45] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 12:21:45,144 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:21:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:21:45,145 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:21:45] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 12:26:24,273 - app - INFO - Application starting up...
+2025-08-05 12:26:24,333 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 12:26:24,333 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:26:24,334 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 12:26:25,267 - app - INFO - Application starting up...
+2025-08-05 12:26:25,319 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 12:26:25,321 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 12:26:32,564 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:26:32] "[32mGET / HTTP/1.1[0m" 302 -
+2025-08-05 12:26:32,598 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:26:32] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 12:26:32,694 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:26:32] "GET /static/style.css HTTP/1.1" 200 -
+2025-08-05 12:26:32,702 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:26:32] "GET /static/script.js HTTP/1.1" 200 -
+2025-08-05 12:27:00,687 - app - INFO - User 'Reezwan' submitted URL for check: 'https://projectworlds.in/tag/gym-management-system-project-in-python-tkinter/'
+2025-08-05 12:27:01,215 - app - ERROR - Error checking with Google Safe Browse API for URL https://projectworlds.in/tag/gym-management-system-project-in-python-tkinter/: 404 Client Error: Not Found for url: https://safebrowse.googleapis.com/v4/threatMatches:find?key=AIzaSyD6ErrsWyvbW7eiLepLlFmkxjXZ2ZPELig
+2025-08-05 12:27:01,215 - app - WARNING - Safe Browse API issue or skip. Proceeding with heuristics only for URL: https://projectworlds.in/tag/gym-management-system-project-in-python-tkinter/
+2025-08-05 12:27:01,344 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:27:01] "POST /check_url HTTP/1.1" 200 -
+2025-08-05 12:27:14,025 - app - INFO - User 'Reezwan' submitted feedback for URL: 'https://projectworlds.in/tag/gym-management-system-project-in-python-tkinter/'
+2025-08-05 12:27:14,029 - app - ERROR - Error submitting feedback by 'Reezwan': name 'Feedback' is not defined
+2025-08-05 12:27:14,030 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:27:14] "[35m[1mPOST /submit_feedback HTTP/1.1[0m" 500 -
+2025-08-05 12:28:58,531 - app - INFO - Application starting up...
+2025-08-05 12:28:59,028 - app - INFO - Default admin user created.
+2025-08-05 12:28:59,228 - app - INFO - Default client user created.
+2025-08-05 12:28:59,261 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 12:28:59,261 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:28:59,262 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 12:29:00,205 - app - INFO - Application starting up...
+2025-08-05 12:29:00,265 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 12:29:00,267 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 12:29:10,235 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:10] "GET /login HTTP/1.1" 200 -
+2025-08-05 12:29:10,309 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:29:19,093 - app - WARNING - Failed login attempt for username: 'Reezwan' from IP: 127.0.0.1
+2025-08-05 12:29:19,095 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:19] "POST /login HTTP/1.1" 200 -
+2025-08-05 12:29:19,124 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:29:30,854 - app - WARNING - Failed login attempt for username: 'Reezwan' from IP: 127.0.0.1
+2025-08-05 12:29:30,855 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:30] "POST /login HTTP/1.1" 200 -
+2025-08-05 12:29:30,885 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:29:32,858 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:32] "GET /register HTTP/1.1" 200 -
+2025-08-05 12:29:32,893 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:29:46,085 - app - INFO - New user registered: 'Reezwan' with role 'client'.
+2025-08-05 12:29:46,086 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:46] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-08-05 12:29:46,092 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:46] "GET /login HTTP/1.1" 200 -
+2025-08-05 12:29:46,126 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:29:51,985 - app - INFO - User 'Reezwan' logged in successfully.
+2025-08-05 12:29:51,986 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:51] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 12:29:51,994 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:51] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 12:29:52,008 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:52] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 12:29:52,035 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:29:52,042 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:29:52] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 12:30:01,288 - app - INFO - User 'Reezwan' submitted URL for check: 'https://projectworlds.in/tag/gym-management-system-project-in-python-tkinter/'
+2025-08-05 12:30:01,723 - app - ERROR - Error checking with Google Safe Browse API for URL https://projectworlds.in/tag/gym-management-system-project-in-python-tkinter/: 404 Client Error: Not Found for url: https://safebrowse.googleapis.com/v4/threatMatches:find?key=AIzaSyD6ErrsWyvbW7eiLepLlFmkxjXZ2ZPELig
+2025-08-05 12:30:01,723 - app - WARNING - Safe Browse API issue or skip. Proceeding with heuristics only for URL: https://projectworlds.in/tag/gym-management-system-project-in-python-tkinter/
+2025-08-05 12:30:01,808 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:30:01] "POST /check_url HTTP/1.1" 200 -
+2025-08-05 12:30:11,968 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:30:11] "[33mPOST /submit_feedback HTTP/1.1[0m" 404 -
+2025-08-05 12:33:19,992 - app - INFO - Application starting up...
+2025-08-05 12:33:20,476 - app - INFO - Default admin user created.
+2025-08-05 12:33:20,686 - app - INFO - Default client user created.
+2025-08-05 12:33:20,717 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 12:33:20,717 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:33:20,718 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 12:33:21,663 - app - INFO - Application starting up...
+2025-08-05 12:33:21,720 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 12:33:21,722 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 12:35:56,216 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:35:56] "GET / HTTP/1.1" 200 -
+2025-08-05 12:35:56,290 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:35:56] "GET /static/style.css HTTP/1.1" 200 -
+2025-08-05 12:35:56,629 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:35:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-05 12:36:08,510 - app - INFO - User 'admin' logged in successfully.
+2025-08-05 12:36:08,512 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:36:08] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 12:36:08,521 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:36:08] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 12:36:08,529 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:36:08] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 12:36:10,675 - app - INFO - User 'admin' logged out successfully.
+2025-08-05 12:36:10,676 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:36:10] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 12:36:10,682 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:36:10] "GET /login HTTP/1.1" 200 -
+2025-08-05 12:36:10,719 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:36:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:36:13,106 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:36:13] "GET /register HTTP/1.1" 200 -
+2025-08-05 12:36:13,141 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:36:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:36:21,730 - app - INFO - New user registered: 'Reezwan' with role 'client'.
+2025-08-05 12:36:21,732 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:36:21] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-08-05 12:36:21,737 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:36:21] "GET /login HTTP/1.1" 200 -
+2025-08-05 12:36:21,774 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:36:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:36:27,474 - app - INFO - User 'Reezwan' logged in successfully.
+2025-08-05 12:36:27,475 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:36:27] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 12:36:27,482 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:36:27] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 12:36:27,494 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:36:27] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 12:36:27,533 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:36:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:36:27,535 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:36:27] "GET /static/script.js HTTP/1.1" 200 -
+2025-08-05 12:37:26,206 - app - INFO - User 'Reezwan' submitted URL for check: 'https://www.valimail.com/resources/guides/guide-to-phishing/url-phishing-real-world-examples-strategies/'
+2025-08-05 12:37:26,955 - app - ERROR - Error checking with Google Safe Browse API for URL https://www.valimail.com/resources/guides/guide-to-phishing/url-phishing-real-world-examples-strategies/: 404 Client Error: Not Found for url: https://safebrowse.googleapis.com/v4/threatMatches:find?key=AIzaSyD6ErrsWyvbW7eiLepLlFmkxjXZ2ZPELig
+2025-08-05 12:37:26,955 - app - WARNING - Safe Browse API issue or skip. Proceeding with heuristics only for URL: https://www.valimail.com/resources/guides/guide-to-phishing/url-phishing-real-world-examples-strategies/
+2025-08-05 12:37:27,434 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:37:27] "POST /check_url HTTP/1.1" 200 -
+2025-08-05 12:37:40,506 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:37:40] "[33mPOST /submit_feedback HTTP/1.1[0m" 404 -
+2025-08-05 12:37:53,332 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:37:53] "[33mPOST /submit_feedback HTTP/1.1[0m" 404 -
+2025-08-05 12:37:53,556 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:37:53] "[33mPOST /submit_feedback HTTP/1.1[0m" 404 -
+2025-08-05 12:37:54,314 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:37:54] "[33mPOST /submit_feedback HTTP/1.1[0m" 404 -
+2025-08-05 12:37:54,537 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:37:54] "[33mPOST /submit_feedback HTTP/1.1[0m" 404 -
+2025-08-05 12:38:07,698 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:38:07] "[33mPOST /submit_feedback HTTP/1.1[0m" 404 -
+2025-08-05 12:40:14,595 - app - INFO - Application starting up...
+2025-08-05 12:40:14,666 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 12:40:14,666 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:40:14,668 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 12:40:15,636 - app - INFO - Application starting up...
+2025-08-05 12:40:15,691 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 12:40:15,693 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 12:40:18,562 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:40:18] "[32mGET / HTTP/1.1[0m" 302 -
+2025-08-05 12:40:18,575 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:40:18] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 12:40:18,667 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:40:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:40:18,669 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:40:18] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 12:40:25,490 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:40:25] "[33mPOST /submit_feedback HTTP/1.1[0m" 404 -
+2025-08-05 12:40:56,378 - app - INFO - User 'Reezwan' logged out successfully.
+2025-08-05 12:40:56,379 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:40:56] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 12:40:56,390 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:40:56] "GET /login HTTP/1.1" 200 -
+2025-08-05 12:40:56,428 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:40:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:41:01,812 - app - INFO - User 'Reezwan' logged in successfully.
+2025-08-05 12:41:01,814 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:41:01] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 12:41:01,819 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:41:01] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 12:41:01,827 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:41:01] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 12:41:01,860 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:41:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:41:01,866 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:41:01] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 12:41:10,519 - app - INFO - User 'Reezwan' submitted URL for check: 'https://www.valimail.com/resources/guides/guide-to-phishing/url-phishing-real-world-examples-strategies/'
+2025-08-05 12:41:18,567 - app - ERROR - Error checking with Google Safe Browse API for URL https://www.valimail.com/resources/guides/guide-to-phishing/url-phishing-real-world-examples-strategies/: 404 Client Error: Not Found for url: https://safebrowse.googleapis.com/v4/threatMatches:find?key=AIzaSyD6ErrsWyvbW7eiLepLlFmkxjXZ2ZPELig
+2025-08-05 12:41:18,568 - app - WARNING - Safe Browse API issue or skip. Proceeding with heuristics only for URL: https://www.valimail.com/resources/guides/guide-to-phishing/url-phishing-real-world-examples-strategies/
+2025-08-05 12:41:18,669 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:41:18] "POST /check_url HTTP/1.1" 200 -
+2025-08-05 12:42:22,976 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:42:22] "[33mPOST /submit_feedback HTTP/1.1[0m" 404 -
+2025-08-05 12:43:31,702 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:43:31] "[32mGET / HTTP/1.1[0m" 302 -
+2025-08-05 12:43:31,708 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:43:31] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 12:43:31,739 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:43:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:43:31,740 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:43:31] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 12:44:11,687 - app - INFO - Application starting up...
+2025-08-05 12:44:12,167 - app - INFO - Default admin user created.
+2025-08-05 12:44:12,356 - app - INFO - Default client user created.
+2025-08-05 12:44:12,391 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 12:44:12,391 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:44:12,392 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 12:44:13,294 - app - INFO - Application starting up...
+2025-08-05 12:44:13,350 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 12:44:13,351 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 12:44:35,017 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:44:35] "GET / HTTP/1.1" 200 -
+2025-08-05 12:44:35,097 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:44:35] "GET /static/style.css HTTP/1.1" 200 -
+2025-08-05 12:44:35,122 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:44:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-05 12:44:43,179 - app - WARNING - Failed login attempt for username: 'user' from IP: 127.0.0.1
+2025-08-05 12:44:43,180 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:44:43] "POST /login HTTP/1.1" 200 -
+2025-08-05 12:44:43,208 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:44:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:44:50,088 - app - WARNING - Failed login attempt for username: 'user1' from IP: 127.0.0.1
+2025-08-05 12:44:50,089 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:44:50] "POST /login HTTP/1.1" 200 -
+2025-08-05 12:44:50,119 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:44:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:44:52,252 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:44:52] "GET /register HTTP/1.1" 200 -
+2025-08-05 12:44:52,270 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:44:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:45:03,103 - app - INFO - New user registered: 'reezwan' with role 'client'.
+2025-08-05 12:45:03,104 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:45:03] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-08-05 12:45:03,111 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:45:03] "GET /login HTTP/1.1" 200 -
+2025-08-05 12:45:03,144 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:45:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:45:08,496 - app - INFO - User 'reezwan' logged in successfully.
+2025-08-05 12:45:08,498 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:45:08] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 12:45:08,506 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:45:08] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 12:45:08,518 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:45:08] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 12:45:08,549 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:45:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:45:08,551 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:45:08] "GET /static/script.js HTTP/1.1" 200 -
+2025-08-05 12:45:19,322 - app - INFO - User 'reezwan' submitted URL for check: 'https://www.youtube.com/watch?v=9_BUZaTcozs&list=RDq-RP99S_qK0&index=18'
+2025-08-05 12:45:19,989 - app - ERROR - Error checking with Google Safe Browse API for URL https://www.youtube.com/watch?v=9_BUZaTcozs&list=RDq-RP99S_qK0&index=18: 404 Client Error: Not Found for url: https://safebrowse.googleapis.com/v4/threatMatches:find?key=AIzaSyD6ErrsWyvbW7eiLepLlFmkxjXZ2ZPELig
+2025-08-05 12:45:19,990 - app - WARNING - Safe Browse API issue or skip. Proceeding with heuristics only for URL: https://www.youtube.com/watch?v=9_BUZaTcozs&list=RDq-RP99S_qK0&index=18
+2025-08-05 12:45:20,116 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:45:20] "POST /check_url HTTP/1.1" 200 -
+2025-08-05 12:45:31,430 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:45:31] "[33mPOST /submit_feedback HTTP/1.1[0m" 404 -
+2025-08-05 12:50:33,655 - app - INFO - Application starting up...
+2025-08-05 12:50:33,723 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 12:50:33,723 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:50:33,725 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 12:50:34,697 - app - INFO - Application starting up...
+2025-08-05 12:50:34,756 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 12:50:34,757 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 12:50:38,445 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:50:38] "[32mGET / HTTP/1.1[0m" 302 -
+2025-08-05 12:50:38,477 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:50:38] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 12:50:38,555 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:50:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:50:38,572 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:50:38] "GET /static/script.js HTTP/1.1" 200 -
+2025-08-05 12:50:48,271 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:50:48] "[33mPOST /submit_feedback HTTP/1.1[0m" 404 -
+2025-08-05 12:51:47,930 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 12:51:48,033 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 12:53:19,352 - app - INFO - Application starting up...
+2025-08-05 12:53:19,417 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 12:53:19,417 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:53:19,418 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 12:53:20,359 - app - INFO - Application starting up...
+2025-08-05 12:53:20,414 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 12:53:20,416 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 12:53:32,534 - app - INFO - User 'reezwan' (already logged in) attempted to access login page.
+2025-08-05 12:53:32,537 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:53:32] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-08-05 12:53:32,543 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:53:32] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 12:53:32,557 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:53:32] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 12:53:32,636 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:53:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:53:32,640 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:53:32] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 12:53:35,774 - app - INFO - User 'reezwan' logged out successfully.
+2025-08-05 12:53:35,775 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:53:35] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 12:53:35,783 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:53:35] "GET /login HTTP/1.1" 200 -
+2025-08-05 12:53:35,812 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:53:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:53:39,514 - app - INFO - User 'reezwan' logged in successfully.
+2025-08-05 12:53:39,515 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:53:39] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 12:53:39,521 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:53:39] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 12:53:39,527 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:53:39] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 12:53:39,560 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:53:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:53:39,560 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:53:39] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 12:53:44,629 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:53:44] "[33mPOST /submit_feedback HTTP/1.1[0m" 404 -
+2025-08-05 12:54:01,785 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:54:01] "[32mGET /client_dashboard HTTP/1.1[0m" 302 -
+2025-08-05 12:54:01,794 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:54:01] "GET /login?next=/client_dashboard HTTP/1.1" 200 -
+2025-08-05 12:54:01,833 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:54:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:54:02,211 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:54:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-05 12:54:08,532 - app - WARNING - Failed login attempt for username: 'Reezwan' from IP: 127.0.0.1
+2025-08-05 12:54:08,533 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:54:08] "POST /login HTTP/1.1" 200 -
+2025-08-05 12:54:08,571 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:54:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:54:25,516 - app - WARNING - Failed login attempt for username: 'Reezwan' from IP: 127.0.0.1
+2025-08-05 12:54:25,517 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:54:25] "POST /login HTTP/1.1" 200 -
+2025-08-05 12:54:25,547 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:54:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:54:34,866 - app - INFO - User 'reezwan' logged out successfully.
+2025-08-05 12:54:34,867 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:54:34] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 12:54:34,875 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:54:34] "GET /login HTTP/1.1" 200 -
+2025-08-05 12:54:34,913 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:54:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:54:38,835 - app - INFO - User 'reezwan' logged in successfully.
+2025-08-05 12:54:38,837 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:54:38] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 12:54:38,843 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:54:38] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 12:54:38,850 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:54:38] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 12:54:38,881 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:54:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:54:38,882 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:54:38] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 12:55:18,009 - app - INFO - Application starting up...
+2025-08-05 12:55:18,505 - app - INFO - Default admin user created.
+2025-08-05 12:55:18,727 - app - INFO - Default client user created.
+2025-08-05 12:55:18,759 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 12:55:18,759 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 12:55:18,760 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 12:55:19,732 - app - INFO - Application starting up...
+2025-08-05 12:55:19,796 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 12:55:19,798 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 12:55:28,450 - app - WARNING - Failed login attempt for username: 'Reezwan' from IP: 127.0.0.1
+2025-08-05 12:55:28,456 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:55:28] "POST /login HTTP/1.1" 200 -
+2025-08-05 12:55:28,517 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:55:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:55:37,065 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:55:37] "[33mGET /sdmin HTTP/1.1[0m" 404 -
+2025-08-05 12:55:43,222 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:55:43] "GET /login HTTP/1.1" 200 -
+2025-08-05 12:55:43,261 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:55:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:55:52,264 - app - INFO - User 'admin' logged in successfully.
+2025-08-05 12:55:52,265 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:55:52] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 12:55:52,273 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:55:52] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 12:55:52,281 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:55:52] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 12:55:54,651 - app - INFO - User 'admin' logged out successfully.
+2025-08-05 12:55:54,652 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:55:54] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 12:55:54,658 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:55:54] "GET /login HTTP/1.1" 200 -
+2025-08-05 12:55:54,686 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:55:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:55:56,561 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:55:56] "GET /register HTTP/1.1" 200 -
+2025-08-05 12:55:56,592 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:55:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:56:04,097 - app - INFO - New user registered: 'Reezwan' with role 'client'.
+2025-08-05 12:56:04,098 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:56:04] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-08-05 12:56:04,104 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:56:04] "GET /login HTTP/1.1" 200 -
+2025-08-05 12:56:04,147 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:56:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:56:14,480 - app - INFO - User 'Reezwan' logged in successfully.
+2025-08-05 12:56:14,481 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:56:14] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 12:56:14,488 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:56:14] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 12:56:14,501 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:56:14] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 12:56:14,534 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:56:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:56:14,537 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:56:14] "GET /static/script.js HTTP/1.1" 200 -
+2025-08-05 12:56:26,380 - app - INFO - User 'Reezwan' submitted URL for check: 'https://hackr.io/tutorials/learn-user-interface-design'
+2025-08-05 12:56:30,857 - app - ERROR - Error checking with Google Safe Browse API for URL https://hackr.io/tutorials/learn-user-interface-design: 404 Client Error: Not Found for url: https://safebrowse.googleapis.com/v4/threatMatches:find?key=AIzaSyD6ErrsWyvbW7eiLepLlFmkxjXZ2ZPELig
+2025-08-05 12:56:30,857 - app - WARNING - Safe Browse API issue or skip. Proceeding with heuristics only for URL: https://hackr.io/tutorials/learn-user-interface-design
+2025-08-05 12:56:30,976 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:56:30] "POST /check_url HTTP/1.1" 200 -
+2025-08-05 12:56:35,821 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:56:35] "[33mPOST /submit_feedback HTTP/1.1[0m" 404 -
+2025-08-05 12:58:55,942 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:58:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 12:58:55,969 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 12:58:55] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-05 13:01:17,509 - app - INFO - Application starting up...
+2025-08-05 13:01:17,578 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 13:01:17,579 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 13:01:17,581 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 13:01:18,541 - app - INFO - Application starting up...
+2025-08-05 13:01:18,597 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 13:01:18,599 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 13:01:23,798 - app - INFO - User 'Reezwan' logged out successfully.
+2025-08-05 13:01:23,799 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:01:23] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 13:01:23,814 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:01:23] "GET /login HTTP/1.1" 200 -
+2025-08-05 13:01:23,883 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:01:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 13:01:30,871 - app - INFO - User 'Reezwan' logged in successfully.
+2025-08-05 13:01:30,873 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:01:30] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 13:01:30,879 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:01:30] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 13:01:30,892 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:01:30] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 13:01:30,926 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:01:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 13:01:30,927 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:01:30] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 13:01:42,117 - app - INFO - User 'Reezwan' submitted URL for check: 'https://hackr.io/tutorials/learn-user-interface-design'
+2025-08-05 13:01:46,106 - app - ERROR - Error checking with Google Safe Browse API for URL https://hackr.io/tutorials/learn-user-interface-design: 404 Client Error: Not Found for url: https://safebrowse.googleapis.com/v4/threatMatches:find?key=AIzaSyD6ErrsWyvbW7eiLepLlFmkxjXZ2ZPELig
+2025-08-05 13:01:46,106 - app - WARNING - Safe Browse API issue or skip. Proceeding with heuristics only for URL: https://hackr.io/tutorials/learn-user-interface-design
+2025-08-05 13:01:46,205 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:01:46] "POST /check_url HTTP/1.1" 200 -
+2025-08-05 13:01:56,657 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:01:56] "[33mPOST /submit_feedback HTTP/1.1[0m" 404 -
+2025-08-05 13:02:04,685 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:02:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 13:02:04,707 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:02:04] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-05 13:08:16,712 - app - INFO - Application starting up...
+2025-08-05 13:08:16,732 - app - WARNING - GOOGLE_SAFE_BROWSING_API_KEY not found in .env. Google Safe Browsing API will not be used.
+2025-08-05 13:08:16,788 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 13:08:16,788 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 13:08:16,789 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 13:08:17,784 - app - INFO - Application starting up...
+2025-08-05 13:08:17,800 - app - WARNING - GOOGLE_SAFE_BROWSING_API_KEY not found in .env. Google Safe Browsing API will not be used.
+2025-08-05 13:08:17,839 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 13:08:17,841 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 13:08:18,117 - app - INFO - User 'Reezwan' (already logged in) attempted to access login page.
+2025-08-05 13:08:18,118 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:08:18] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-08-05 13:08:18,125 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:08:18] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 13:08:18,140 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:08:18] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 13:08:18,163 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:08:18] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-05 13:08:18,228 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:08:18] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 13:08:18,232 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:08:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 13:09:08,081 - app - INFO - Application starting up...
+2025-08-05 13:09:08,143 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 13:09:08,143 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 13:09:08,144 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 13:09:09,101 - app - INFO - Application starting up...
+2025-08-05 13:09:09,159 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 13:09:09,161 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 13:09:16,075 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:09:16] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 13:09:16,102 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:09:16] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-05 13:09:16,159 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:09:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 13:09:16,160 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:09:16] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 13:09:20,088 - app - INFO - User 'Reezwan' logged out successfully.
+2025-08-05 13:09:20,090 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:09:20] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 13:09:20,102 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:09:20] "GET /login HTTP/1.1" 200 -
+2025-08-05 13:09:20,142 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:09:20] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-05 13:09:20,152 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:09:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 13:09:35,504 - app - INFO - User 'Reezwan' logged in successfully.
+2025-08-05 13:09:35,506 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:09:35] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 13:09:35,511 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:09:35] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 13:09:35,520 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:09:35] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 13:09:35,559 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:09:35] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-05 13:09:35,567 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:09:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 13:09:35,574 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:09:35] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 13:09:51,167 - app - INFO - User 'Reezwan' submitted URL for check: 'https://hackr.io/tutorials/learn-user-interface-design'
+2025-08-05 13:09:51,685 - app - ERROR - Error checking with Google Safe Browsing API for URL https://hackr.io/tutorials/learn-user-interface-design: 400 Client Error: Bad Request for url: https://safebrowsing.googleapis.com/v4/threatMatches:find?key=AIzaSyD6ErrsWyvbW7eiLepLlFmkxjXZ2ZPELig
+2025-08-05 13:09:51,686 - app - WARNING - Safe Browsing API issue or skip. Proceeding with heuristics only for URL: https://hackr.io/tutorials/learn-user-interface-design
+2025-08-05 13:09:51,788 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:09:51] "POST /check_url HTTP/1.1" 200 -
+2025-08-05 13:10:01,474 - app - INFO - User 'Reezwan' submitted feedback for URL: 'https://hackr.io/tutorials/learn-user-interface-design'
+2025-08-05 13:10:01,569 - app - INFO - Feedback submitted successfully by 'Reezwan'. Feedback ID: 1
+2025-08-05 13:10:01,570 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:10:01] "POST /submit_feedback HTTP/1.1" 200 -
+2025-08-05 13:13:16,014 - app - INFO - User 'Reezwan' logged out successfully.
+2025-08-05 13:13:16,015 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:16] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 13:13:16,023 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:16] "GET /login HTTP/1.1" 200 -
+2025-08-05 13:13:16,064 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 13:13:23,250 - app - INFO - User 'Reezwan' logged in successfully.
+2025-08-05 13:13:23,251 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:23] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 13:13:23,257 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:23] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 13:13:23,265 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:23] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 13:13:23,299 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 13:13:23,300 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 13:13:36,803 - app - INFO - User 'Reezwan' logged out successfully.
+2025-08-05 13:13:36,804 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:36] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 13:13:36,812 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:36] "GET /login HTTP/1.1" 200 -
+2025-08-05 13:13:36,843 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 13:13:44,230 - app - INFO - User 'admin' logged in successfully.
+2025-08-05 13:13:44,231 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:44] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 13:13:44,238 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:44] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 13:13:44,246 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:44] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 13:13:46,111 - app - INFO - User 'admin' logged out successfully.
+2025-08-05 13:13:46,112 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:46] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 13:13:46,117 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:46] "GET /login HTTP/1.1" 200 -
+2025-08-05 13:13:46,151 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 13:13:54,213 - app - INFO - User 'Reezwan' logged in successfully.
+2025-08-05 13:13:54,215 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:54] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 13:13:54,223 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:54] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 13:13:54,231 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:54] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 13:13:54,269 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 13:13:54,270 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:13:54] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 13:18:46,599 - app - INFO - Application starting up...
+2025-08-05 13:18:46,669 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 13:18:46,669 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 13:18:46,671 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 13:18:47,639 - app - INFO - Application starting up...
+2025-08-05 13:18:47,695 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 13:18:47,697 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 13:18:56,383 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:18:56] "[32mGET /admin_dashboard HTTP/1.1[0m" 302 -
+2025-08-05 13:18:56,391 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:18:56] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 13:18:56,406 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:18:56] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 13:18:56,490 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:18:56] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 13:18:56,499 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:18:56] "GET /static/style.css HTTP/1.1" 200 -
+2025-08-05 13:18:58,763 - app - INFO - User 'Reezwan' logged out successfully.
+2025-08-05 13:18:58,764 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:18:58] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 13:18:58,776 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:18:58] "GET /login HTTP/1.1" 200 -
+2025-08-05 13:18:58,810 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:18:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 13:19:06,284 - app - INFO - User 'admin' logged in successfully.
+2025-08-05 13:19:06,285 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:19:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 13:19:06,292 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:19:06] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 13:19:06,331 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:19:06] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 13:19:06,360 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:19:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 13:19:06,365 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:19:06] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 13:41:02,215 - app - INFO - Application starting up...
+2025-08-05 13:41:03,210 - app - INFO - Default admin user created.
+2025-08-05 13:41:03,443 - app - INFO - Default client user created.
+2025-08-05 13:41:03,475 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 13:41:03,475 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 13:41:03,477 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 13:41:04,386 - app - INFO - Application starting up...
+2025-08-05 13:41:04,441 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 13:41:04,442 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 13:42:23,342 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:42:23] "[32mGET / HTTP/1.1[0m" 302 -
+2025-08-05 13:42:23,364 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:42:23] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 13:42:23,453 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:42:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 13:42:23,455 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:42:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 13:42:56,711 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 13:42:56,829 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 13:42:57,825 - app - INFO - Application starting up...
+2025-08-05 13:42:57,881 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 13:42:57,883 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 13:45:42,283 - app - INFO - Application starting up...
+2025-08-05 13:45:42,352 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 13:45:42,352 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 13:45:42,354 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 13:45:43,270 - app - INFO - Application starting up...
+2025-08-05 13:45:43,333 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 13:45:43,334 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 13:45:55,947 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:45:55] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 13:45:56,023 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:45:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 13:45:56,041 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:45:56] "GET /static/admin_script.js HTTP/1.1" 200 -
+2025-08-05 13:49:43,848 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:49:43] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 13:49:43,869 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:49:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 13:49:43,874 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 13:49:43] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:05:27,066 - app - INFO - Application starting up...
+2025-08-05 14:05:27,083 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 14:05:27,152 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 14:05:27,152 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 14:05:27,153 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 14:05:28,075 - app - INFO - Application starting up...
+2025-08-05 14:05:28,094 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 14:05:28,140 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 14:05:28,142 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 14:05:59,493 - app - INFO - Application starting up...
+2025-08-05 14:05:59,513 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 14:05:59,570 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 14:05:59,570 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 14:05:59,571 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 14:06:00,480 - app - INFO - Application starting up...
+2025-08-05 14:06:00,498 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 14:06:00,543 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 14:06:00,545 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 14:06:41,550 - app - INFO - Application starting up...
+2025-08-05 14:06:41,571 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 14:06:41,628 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 14:06:41,629 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 14:06:41,630 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 14:06:42,566 - app - INFO - Application starting up...
+2025-08-05 14:06:42,583 - app - WARNING - GOOGLE_SAFE_Browse_API_KEY not found in .env. Google Safe Browse API will not be used.
+2025-08-05 14:06:42,628 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 14:06:42,630 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 14:07:43,246 - app - INFO - Application starting up...
+2025-08-05 14:07:43,323 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 14:07:43,324 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 14:07:43,325 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 14:07:44,239 - app - INFO - Application starting up...
+2025-08-05 14:07:44,298 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 14:07:44,299 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 14:09:28,548 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 14:09:28,650 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 14:09:29,754 - app - INFO - Application starting up...
+2025-08-05 14:10:52,515 - app - INFO - Application starting up...
+2025-08-05 14:10:52,587 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 14:10:52,587 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 14:10:52,588 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 14:10:53,498 - app - INFO - Application starting up...
+2025-08-05 14:10:53,554 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 14:10:53,556 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 14:11:13,072 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:11:13] "GET /login HTTP/1.1" 200 -
+2025-08-05 14:11:13,172 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:11:13] "GET /static/style.css HTTP/1.1" 200 -
+2025-08-05 14:11:13,481 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:11:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-05 14:11:21,196 - app - INFO - User 'admin' logged in successfully.
+2025-08-05 14:11:21,198 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:11:21] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 14:11:21,206 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:11:21] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 14:11:21,253 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:11:21] "[35m[1mGET /admin_dashboard HTTP/1.1[0m" 500 -
+2025-08-05 14:11:21,292 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:11:21] "GET /admin_dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-08-05 14:11:21,299 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:11:21] "GET /admin_dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-08-05 14:11:21,391 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:11:21] "GET /admin_dashboard?__debugger__=yes&cmd=resource&f=console.png&s=P4yWXvW0q6GAEzztINvT HTTP/1.1" 200 -
+2025-08-05 14:11:21,395 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:11:21] "GET /admin_dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-08-05 14:11:21,433 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:11:21] "[36mGET /admin_dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-08-05 14:14:01,872 - app - INFO - Application starting up...
+2025-08-05 14:14:45,638 - app - INFO - Application starting up...
+2025-08-05 14:15:51,379 - app - INFO - Application starting up...
+2025-08-05 14:15:51,447 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 14:15:51,448 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 14:15:51,449 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 14:15:52,347 - app - INFO - Application starting up...
+2025-08-05 14:15:52,402 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 14:15:52,404 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 14:15:59,035 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:15:59] "GET / HTTP/1.1" 200 -
+2025-08-05 14:15:59,093 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:15:59] "GET /static/style.css HTTP/1.1" 200 -
+2025-08-05 14:15:59,112 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:15:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-05 14:16:06,254 - app - INFO - User 'admin' logged in successfully.
+2025-08-05 14:16:06,256 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 14:16:06,263 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:06] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 14:16:06,273 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:06] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:16:06,296 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:16:06,315 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:06] "GET /static/admin_script.js HTTP/1.1" 200 -
+2025-08-05 14:16:10,389 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:10] "[32mGET /client_dashboard HTTP/1.1[0m" 302 -
+2025-08-05 14:16:10,405 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:10] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 14:16:10,410 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:10] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:16:10,423 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:16:10,428 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:10] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:16:13,386 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:13] "GET /admin/checks HTTP/1.1" 200 -
+2025-08-05 14:16:13,405 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:16:13,411 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:13] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:16:18,999 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:18] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:16:19,017 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:16:19,022 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:19] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:16:20,514 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:20] "GET /admin/users HTTP/1.1" 200 -
+2025-08-05 14:16:20,538 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:16:20,538 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:20] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:16:25,371 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:25] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:16:25,394 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:16:25,394 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:25] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:16:29,355 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:29] "GET /admin/feedback HTTP/1.1" 200 -
+2025-08-05 14:16:29,371 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:16:29,376 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:29] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:16:31,494 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:31] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:16:31,512 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:16:31,519 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:16:31] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:24:43,281 - app - INFO - Application starting up...
+2025-08-05 14:24:43,347 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 14:24:43,347 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 14:24:43,348 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 14:24:44,220 - app - INFO - Application starting up...
+2025-08-05 14:24:44,274 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 14:24:44,275 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 14:24:48,348 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:24:48] "[32mGET / HTTP/1.1[0m" 302 -
+2025-08-05 14:24:48,363 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:24:48] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:24:48,434 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:24:48] "GET /static/style.css HTTP/1.1" 200 -
+2025-08-05 14:24:48,457 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:24:48] "GET /static/admin_script.js HTTP/1.1" 200 -
+2025-08-05 14:24:55,563 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:24:55] "GET /admin/checks HTTP/1.1" 200 -
+2025-08-05 14:24:55,579 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:24:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:24:55,585 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:24:55] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:24:57,596 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:24:57] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:24:57,615 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:24:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:24:57,615 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:24:57] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:24:58,911 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:24:58] "[32mGET /client_dashboard HTTP/1.1[0m" 302 -
+2025-08-05 14:24:58,916 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:24:58] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 14:24:58,920 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:24:58] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:24:58,934 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:24:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:24:58,936 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:24:58] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:25:02,313 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:25:02] "GET /admin/users HTTP/1.1" 200 -
+2025-08-05 14:25:02,330 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:25:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:25:02,335 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:25:02] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:25:06,348 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:25:06] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:25:06,371 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:25:06] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:25:06,371 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:25:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:25:09,377 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:25:09] "[32mGET /client_dashboard HTTP/1.1[0m" 302 -
+2025-08-05 14:25:09,383 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:25:09] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 14:25:09,389 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:25:09] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:25:09,402 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:25:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:25:09,406 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:25:09] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:26:50,889 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:50] "GET /admin/checks HTTP/1.1" 200 -
+2025-08-05 14:26:50,908 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:26:50,909 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:50] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:26:52,404 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:52] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:26:52,421 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:26:52,425 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:52] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:26:53,576 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:53] "GET /admin/users HTTP/1.1" 200 -
+2025-08-05 14:26:53,595 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:26:53,601 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:53] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:26:55,731 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:55] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:26:55,750 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:26:55,755 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:55] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:26:56,879 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:56] "GET /admin/feedback HTTP/1.1" 200 -
+2025-08-05 14:26:56,899 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:26:56,903 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:56] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:26:58,634 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:58] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:26:58,653 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:26:58,656 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:26:58] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:27:00,897 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:27:00] "[32mGET /client_dashboard HTTP/1.1[0m" 302 -
+2025-08-05 14:27:00,905 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:27:00] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 14:27:00,908 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:27:00] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:27:00,922 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:27:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:27:00,923 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:27:00] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:27:02,011 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:27:02] "[32mGET /client_dashboard HTTP/1.1[0m" 302 -
+2025-08-05 14:27:02,018 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:27:02] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 14:27:02,022 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:27:02] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:27:02,037 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:27:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:27:02,039 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:27:02] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:29:25,476 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:29:25] "GET /admin/users HTTP/1.1" 200 -
+2025-08-05 14:29:25,495 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:29:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:29:25,501 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:29:25] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:29:38,078 - app - INFO - Admin 'admin' added new user 'demo' with role 'client'.
+2025-08-05 14:29:38,079 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:29:38] "[35m[1mPOST /add_user_by_admin HTTP/1.1[0m" 201 -
+2025-08-05 14:29:44,715 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:29:44] "GET /admin/users HTTP/1.1" 200 -
+2025-08-05 14:29:44,729 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:29:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:29:44,729 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:29:44] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:29:45,858 - app - INFO - User 'admin' logged out successfully.
+2025-08-05 14:29:45,859 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:29:45] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 14:29:45,868 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:29:45] "GET /login HTTP/1.1" 200 -
+2025-08-05 14:29:45,890 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:29:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:29:52,755 - app - INFO - User 'demo' logged in successfully.
+2025-08-05 14:29:52,756 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:29:52] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 14:29:52,761 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:29:52] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 14:29:52,771 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:29:52] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 14:29:52,793 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:29:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:29:52,794 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:29:52] "GET /static/script.js HTTP/1.1" 200 -
+2025-08-05 14:30:06,299 - app - INFO - User 'demo' submitted URL for check: 'https://www.google.com/search?q=chatgpt&oq=chat&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIPCAEQRRg5GIMBGLEDGIAEMgYIAhBFGEAyBggDEEUYPDIGCAQQRRg8MgYIBRBFGEEyBggGEEUYPDIGCAcQRRg80gEIMzY4OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8'
+2025-08-05 14:30:06,944 - app - ERROR - Error checking with Google Safe Browse API for URL https://www.google.com/search?q=chatgpt&oq=chat&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIPCAEQRRg5GIMBGLEDGIAEMgYIAhBFGEAyBggDEEUYPDIGCAQQRRg8MgYIBRBFGEEyBggGEEUYPDIGCAcQRRg80gEIMzY4OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8: 404 Client Error: Not Found for url: https://safebrowse.googleapis.com/v4/threatMatches:find?key=AIzaSyD6ErrsWyvbW7eiLepLlFmkxjXZ2ZPELig
+2025-08-05 14:30:06,945 - app - WARNING - Safe Browse API issue or skip. Proceeding with heuristics only for URL: https://www.google.com/search?q=chatgpt&oq=chat&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIPCAEQRRg5GIMBGLEDGIAEMgYIAhBFGEAyBggDEEUYPDIGCAQQRRg8MgYIBRBFGEEyBggGEEUYPDIGCAcQRRg80gEIMzY4OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+2025-08-05 14:30:07,044 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:30:07] "POST /check_url HTTP/1.1" 200 -
+2025-08-05 14:30:17,903 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:30:17] "[33mPOST /submit_feedback HTTP/1.1[0m" 404 -
+2025-08-05 14:30:30,819 - app - INFO - User 'demo' logged out successfully.
+2025-08-05 14:30:30,820 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:30:30] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 14:30:30,826 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:30:30] "GET /login HTTP/1.1" 200 -
+2025-08-05 14:30:30,847 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:30:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:30:36,594 - app - INFO - User 'admin' logged in successfully.
+2025-08-05 14:30:36,595 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:30:36] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 14:30:36,600 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:30:36] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 14:30:36,605 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:30:36] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:30:36,628 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:30:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:30:36,630 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:30:36] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:30:38,416 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:30:38] "GET /admin/feedback HTTP/1.1" 200 -
+2025-08-05 14:30:38,434 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:30:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:30:38,440 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:30:38] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:32:39,479 - app - INFO - Application starting up...
+2025-08-05 14:32:39,555 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 14:32:39,555 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 14:32:39,556 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 14:32:40,516 - app - INFO - Application starting up...
+2025-08-05 14:32:40,575 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 14:32:40,577 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 14:32:50,208 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:32:50] "GET / HTTP/1.1" 200 -
+2025-08-05 14:32:50,285 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:32:50] "GET /static/style.css HTTP/1.1" 200 -
+2025-08-05 14:32:50,625 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:32:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-05 14:32:57,335 - app - WARNING - Failed login attempt for username: 'Reezwan' from IP: 127.0.0.1
+2025-08-05 14:32:57,337 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:32:57] "POST /login HTTP/1.1" 200 -
+2025-08-05 14:32:57,371 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:32:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:33:06,469 - app - WARNING - Failed login attempt for username: 'demo' from IP: 127.0.0.1
+2025-08-05 14:33:06,471 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:33:06] "POST /login HTTP/1.1" 200 -
+2025-08-05 14:33:06,496 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:33:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:33:18,298 - app - INFO - User 'demo' logged in successfully.
+2025-08-05 14:33:18,300 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:33:18] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 14:33:18,308 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:33:18] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 14:33:18,321 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:33:18] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 14:33:18,350 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:33:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:33:18,350 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:33:18] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:33:28,434 - app - INFO - User 'demo' submitted URL for check: 'https://www.google.com/search?q=chatgpt&oq=chat&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIPCAEQRRg5GIMBGLEDGIAEMgYIAhBFGEAyBggDEEUYPDIGCAQQRRg8MgYIBRBFGEEyBggGEEUYPDIGCAcQRRg80gEIMzY4OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8'
+2025-08-05 14:33:32,113 - app - ERROR - Error checking with Google Safe Browse API for URL https://www.google.com/search?q=chatgpt&oq=chat&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIPCAEQRRg5GIMBGLEDGIAEMgYIAhBFGEAyBggDEEUYPDIGCAQQRRg8MgYIBRBFGEEyBggGEEUYPDIGCAcQRRg80gEIMzY4OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8: 404 Client Error: Not Found for url: https://safebrowse.googleapis.com/v4/threatMatches:find?key=AIzaSyD6ErrsWyvbW7eiLepLlFmkxjXZ2ZPELig
+2025-08-05 14:33:32,114 - app - WARNING - Safe Browse API issue or skip. Proceeding with heuristics only for URL: https://www.google.com/search?q=chatgpt&oq=chat&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIPCAEQRRg5GIMBGLEDGIAEMgYIAhBFGEAyBggDEEUYPDIGCAQQRRg8MgYIBRBFGEEyBggGEEUYPDIGCAcQRRg80gEIMzY4OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+2025-08-05 14:33:32,235 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:33:32] "POST /check_url HTTP/1.1" 200 -
+2025-08-05 14:33:40,815 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:33:40] "[33mPOST /submit_feedback HTTP/1.1[0m" 404 -
+2025-08-05 14:33:53,883 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:33:53] "[33mPOST /submit_feedback HTTP/1.1[0m" 404 -
+2025-08-05 14:33:57,144 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:33:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:33:57,164 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:33:57] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-05 14:36:38,149 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 14:36:38,263 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 14:36:39,296 - app - INFO - Application starting up...
+2025-08-05 14:36:39,359 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 14:36:39,360 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 14:37:22,483 - app - INFO - Application starting up...
+2025-08-05 14:37:22,556 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 14:37:22,556 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 14:37:22,558 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 14:37:23,461 - app - INFO - Application starting up...
+2025-08-05 14:37:23,517 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 14:37:23,518 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 14:37:25,143 - app - INFO - User 'demo' logged out successfully.
+2025-08-05 14:37:25,144 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:37:25] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 14:37:25,155 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:37:25] "GET /login HTTP/1.1" 200 -
+2025-08-05 14:37:25,226 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:37:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:37:42,216 - app - INFO - User 'demo' logged in successfully.
+2025-08-05 14:37:42,217 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:37:42] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 14:37:42,223 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:37:42] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 14:37:42,240 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:37:42] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 14:37:42,272 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:37:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:37:42,293 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:37:42] "GET /static/script.js HTTP/1.1" 200 -
+2025-08-05 14:38:02,631 - app - INFO - User 'demo' submitted URL for check: 'https://projectworlds.in/tag/gym-management-system-project-in-python-tkinter/'
+2025-08-05 14:38:03,327 - app - ERROR - Error checking with Google Safe Browse API for URL https://projectworlds.in/tag/gym-management-system-project-in-python-tkinter/: 404 Client Error: Not Found for url: https://safebrowse.googleapis.com/v4/threatMatches:find?key=AIzaSyD6ErrsWyvbW7eiLepLlFmkxjXZ2ZPELig
+2025-08-05 14:38:03,328 - app - WARNING - Safe Browse API issue or skip. Proceeding with heuristics only for URL: https://projectworlds.in/tag/gym-management-system-project-in-python-tkinter/
+2025-08-05 14:38:03,426 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:03] "POST /check_url HTTP/1.1" 200 -
+2025-08-05 14:38:12,697 - app - INFO - User 'demo' submitted feedback for URL: 'https://projectworlds.in/tag/gym-management-system-project-in-python-tkinter/'
+2025-08-05 14:38:12,795 - app - INFO - Feedback submitted successfully by 'demo'. Feedback ID: 1
+2025-08-05 14:38:12,796 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:12] "POST /submit_feedback HTTP/1.1" 200 -
+2025-08-05 14:38:16,849 - app - INFO - User 'demo' logged out successfully.
+2025-08-05 14:38:16,850 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:16] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 14:38:16,859 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:16] "GET /login HTTP/1.1" 200 -
+2025-08-05 14:38:16,897 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:38:24,152 - app - INFO - User 'admin' logged in successfully.
+2025-08-05 14:38:24,153 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:24] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 14:38:24,159 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:24] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 14:38:24,170 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:24] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:38:24,205 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:38:24,206 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:24] "GET /static/admin_script.js HTTP/1.1" 200 -
+2025-08-05 14:38:27,041 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:27] "[35m[1mGET /admin/feedback HTTP/1.1[0m" 500 -
+2025-08-05 14:38:27,080 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:27] "GET /admin/feedback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-08-05 14:38:27,081 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:27] "GET /admin/feedback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-08-05 14:38:27,160 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:27] "GET /admin/feedback?__debugger__=yes&cmd=resource&f=console.png&s=r1cSCATzKxe6LOgsSiFq HTTP/1.1" 200 -
+2025-08-05 14:38:27,162 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:27] "GET /admin/feedback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-08-05 14:38:27,202 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:27] "[36mGET /admin/feedback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-08-05 14:38:58,248 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:58] "GET /admin/checks HTTP/1.1" 200 -
+2025-08-05 14:38:58,282 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:38:58,284 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:38:58] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:39:05,805 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:05] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:39:05,841 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:39:05,843 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:05] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:39:07,548 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:07] "GET /admin/users HTTP/1.1" 200 -
+2025-08-05 14:39:07,580 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:39:07,582 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:07] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:39:15,172 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:15] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:39:15,208 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:39:15,209 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:15] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:39:17,227 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:17] "[32mGET /client_dashboard HTTP/1.1[0m" 302 -
+2025-08-05 14:39:17,237 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:17] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 14:39:17,242 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:17] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:39:17,278 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:39:17,278 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:17] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:39:18,456 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:18] "[32mGET /client_dashboard HTTP/1.1[0m" 302 -
+2025-08-05 14:39:18,465 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:18] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 14:39:18,472 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:18] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:39:18,499 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:39:18,501 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:18] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:39:39,036 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:39] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:39:39,065 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:39:39,065 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:39:39] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:41:00,033 - werkzeug - INFO -  * Detected change in 'D:\\PhishingDetector\\app.py', reloading
+2025-08-05 14:41:00,150 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 14:41:01,139 - app - INFO - Application starting up...
+2025-08-05 14:41:01,195 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 14:41:01,196 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 14:41:46,895 - app - INFO - Application starting up...
+2025-08-05 14:41:46,973 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 14:41:46,973 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 14:41:46,975 - werkzeug - INFO -  * Restarting with stat
+2025-08-05 14:41:47,856 - app - INFO - Application starting up...
+2025-08-05 14:41:47,910 - werkzeug - WARNING -  * Debugger is active!
+2025-08-05 14:41:47,911 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-05 14:41:51,334 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:41:51] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-05 14:41:51,400 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:41:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:41:51,410 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:41:51] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:41:53,404 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:41:53] "GET /admin/feedback HTTP/1.1" 200 -
+2025-08-05 14:41:53,439 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:41:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:41:53,439 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:41:53] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:42:03,253 - app - INFO - Admin 'admin' replied to feedback ID 1.
+2025-08-05 14:42:03,254 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:42:03] "POST /admin/reply_feedback HTTP/1.1" 200 -
+2025-08-05 14:42:05,047 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:42:05] "GET /admin/feedback HTTP/1.1" 200 -
+2025-08-05 14:42:05,077 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:42:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:42:05,078 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:42:05] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:42:08,077 - app - INFO - User 'admin' logged out successfully.
+2025-08-05 14:42:08,078 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:42:08] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 14:42:08,088 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:42:08] "GET /login HTTP/1.1" 200 -
+2025-08-05 14:42:08,127 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:42:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:42:29,887 - app - INFO - User 'demo' logged in successfully.
+2025-08-05 14:42:29,889 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:42:29] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-05 14:42:29,895 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:42:29] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-05 14:42:29,910 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:42:29] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-05 14:42:29,944 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:42:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-05 14:42:29,952 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:42:29] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-05 14:42:40,844 - app - INFO - User 'demo' logged out successfully.
+2025-08-05 14:42:40,845 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:42:40] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-05 14:42:40,854 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:42:40] "GET /login HTTP/1.1" 200 -
+2025-08-05 14:42:40,885 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2025 14:42:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:35:16,264 - app - INFO - Application starting up...
+2025-08-06 12:35:16,621 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-06 12:35:16,622 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-06 12:35:16,623 - werkzeug - INFO -  * Restarting with stat
+2025-08-06 12:35:18,191 - app - INFO - Application starting up...
+2025-08-06 12:35:18,275 - werkzeug - WARNING -  * Debugger is active!
+2025-08-06 12:35:18,290 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-08-06 12:35:21,059 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:35:21] "GET / HTTP/1.1" 200 -
+2025-08-06 12:35:21,237 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:35:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:35:21,708 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:35:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-06 12:35:34,044 - app - WARNING - Failed login attempt for username: 'Reezwan' from IP: 127.0.0.1
+2025-08-06 12:35:34,046 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:35:34] "POST /login HTTP/1.1" 200 -
+2025-08-06 12:35:34,106 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:35:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:35:50,022 - app - WARNING - Failed login attempt for username: 'reezwan' from IP: 127.0.0.1
+2025-08-06 12:35:50,024 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:35:50] "POST /login HTTP/1.1" 200 -
+2025-08-06 12:35:50,071 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:35:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:35:59,168 - app - INFO - User 'admin' logged in successfully.
+2025-08-06 12:35:59,175 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:35:59] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-06 12:35:59,195 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:35:59] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-06 12:35:59,289 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:35:59] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-06 12:35:59,344 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:35:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:35:59,391 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:35:59] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-06 12:36:13,035 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:36:13] "GET /admin/users HTTP/1.1" 200 -
+2025-08-06 12:36:13,092 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:36:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:36:13,094 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:36:13] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-06 12:36:47,079 - app - INFO - Admin 'admin' added new user 'Reezwan' with role 'client'.
+2025-08-06 12:36:47,080 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:36:47] "[35m[1mPOST /add_user_by_admin HTTP/1.1[0m" 201 -
+2025-08-06 12:37:02,441 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:02] "GET /admin/users HTTP/1.1" 200 -
+2025-08-06 12:37:02,499 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:37:02,500 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:02] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-06 12:37:18,167 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:18] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-06 12:37:18,240 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:37:18,252 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:18] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-06 12:37:21,312 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:21] "GET /admin/checks HTTP/1.1" 200 -
+2025-08-06 12:37:21,370 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:37:21,377 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:21] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-06 12:37:27,765 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:27] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-06 12:37:27,816 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:37:27,826 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:27] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-06 12:37:29,557 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:29] "GET /admin/feedback HTTP/1.1" 200 -
+2025-08-06 12:37:29,619 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:37:29,622 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:29] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-06 12:37:37,485 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:37] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-06 12:37:37,551 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:37:37,553 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:37] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-06 12:37:39,130 - app - INFO - User 'admin' logged out successfully.
+2025-08-06 12:37:39,132 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:39] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-06 12:37:39,146 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:39] "GET /login HTTP/1.1" 200 -
+2025-08-06 12:37:39,216 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:37:46,070 - app - INFO - User 'Reezwan' logged in successfully.
+2025-08-06 12:37:46,071 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:46] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-06 12:37:46,079 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:46] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-06 12:37:46,191 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:46] "GET /client_dashboard HTTP/1.1" 200 -
+2025-08-06 12:37:46,254 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:37:46,306 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:37:46] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-08-06 12:37:57,408 - app - INFO - User 'Reezwan' submitted URL for check: 'https://hackr.io/tutorials/learn-user-interface-design'
+2025-08-06 12:38:02,658 - app - ERROR - Error checking with Google Safe Browse API for URL https://hackr.io/tutorials/learn-user-interface-design: 404 Client Error: Not Found for url: https://safebrowse.googleapis.com/v4/threatMatches:find?key=AIzaSyD6ErrsWyvbW7eiLepLlFmkxjXZ2ZPELig
+2025-08-06 12:38:02,659 - app - WARNING - Safe Browse API issue or skip. Proceeding with heuristics only for URL: https://hackr.io/tutorials/learn-user-interface-design
+2025-08-06 12:38:02,732 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:02] "POST /check_url HTTP/1.1" 200 -
+2025-08-06 12:38:09,809 - app - INFO - User 'Reezwan' submitted feedback for URL: 'https://hackr.io/tutorials/learn-user-interface-design'
+2025-08-06 12:38:09,884 - app - INFO - Feedback submitted successfully by 'Reezwan'. Feedback ID: 2
+2025-08-06 12:38:09,885 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:09] "POST /submit_feedback HTTP/1.1" 200 -
+2025-08-06 12:38:16,238 - app - INFO - User 'Reezwan' logged out successfully.
+2025-08-06 12:38:16,241 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:16] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-06 12:38:16,262 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:16] "GET /login HTTP/1.1" 200 -
+2025-08-06 12:38:16,333 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:38:25,223 - app - INFO - User 'admin' logged in successfully.
+2025-08-06 12:38:25,225 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:25] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-06 12:38:25,236 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:25] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-06 12:38:25,251 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:25] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-06 12:38:25,326 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:38:25,327 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:25] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-06 12:38:27,310 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:27] "GET /admin/feedback HTTP/1.1" 200 -
+2025-08-06 12:38:27,393 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:38:27,413 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:27] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-06 12:38:44,631 - app - INFO - Admin 'admin' replied to feedback ID 2.
+2025-08-06 12:38:44,632 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:44] "POST /admin/reply_feedback HTTP/1.1" 200 -
+2025-08-06 12:38:46,677 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:46] "GET /admin/feedback HTTP/1.1" 200 -
+2025-08-06 12:38:46,736 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-06 12:38:46,749 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:46] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-06 12:38:51,709 - app - INFO - User 'admin' logged out successfully.
+2025-08-06 12:38:51,711 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:51] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-06 12:38:51,723 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:51] "GET /login HTTP/1.1" 200 -
+2025-08-06 12:38:51,800 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2025 12:38:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 19:52:29,072 - app - INFO - Application starting up...
+2025-08-14 19:52:29,242 - app - WARNING - GOOGLE_SAFE_BROWSING_API_KEY not found in .env. Google Safe Browsing API will not be used.
+2025-08-14 19:52:29,766 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-14 19:52:29,766 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-14 19:52:29,769 - werkzeug - INFO -  * Restarting with stat
+2025-08-14 19:52:31,474 - app - INFO - Application starting up...
+2025-08-14 19:52:31,509 - app - WARNING - GOOGLE_SAFE_BROWSING_API_KEY not found in .env. Google Safe Browsing API will not be used.
+2025-08-14 19:52:31,589 - werkzeug - WARNING -  * Debugger is active!
+2025-08-14 19:52:31,605 - werkzeug - INFO -  * Debugger PIN: 114-425-765
+2025-08-14 19:52:50,346 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:52:50] "GET / HTTP/1.1" 200 -
+2025-08-14 19:52:50,492 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:52:50] "GET /static/style.css HTTP/1.1" 200 -
+2025-08-14 19:52:50,940 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:52:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-14 19:52:55,597 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:52:55] "GET /register HTTP/1.1" 200 -
+2025-08-14 19:52:55,653 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:52:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 19:53:25,978 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:53:25] "GET /login HTTP/1.1" 200 -
+2025-08-14 19:53:26,065 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:53:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 19:53:34,094 - app - INFO - User 'admin' logged in successfully.
+2025-08-14 19:53:34,096 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:53:34] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-14 19:53:34,115 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:53:34] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-14 19:53:34,169 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:53:34] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-14 19:53:34,220 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:53:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 19:53:34,229 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:53:34] "GET /static/admin_script.js HTTP/1.1" 200 -
+2025-08-14 19:53:37,976 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:53:37] "GET /admin/checks HTTP/1.1" 200 -
+2025-08-14 19:53:38,027 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:53:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 19:53:38,034 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:53:38] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-14 19:53:40,588 - app - INFO - User 'admin' logged out successfully.
+2025-08-14 19:53:40,590 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:53:40] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-14 19:53:40,612 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:53:40] "GET /login HTTP/1.1" 200 -
+2025-08-14 19:53:40,668 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:53:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 19:57:20,311 - app - INFO - Application starting up...
+2025-08-14 19:57:20,579 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-14 19:57:20,579 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-14 19:57:20,581 - werkzeug - INFO -  * Restarting with stat
+2025-08-14 19:57:22,272 - app - INFO - Application starting up...
+2025-08-14 19:57:22,365 - werkzeug - WARNING -  * Debugger is active!
+2025-08-14 19:57:22,368 - werkzeug - INFO -  * Debugger PIN: 114-425-765
+2025-08-14 19:57:24,740 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:24] "GET / HTTP/1.1" 200 -
+2025-08-14 19:57:24,870 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:24] "GET /static/style.css HTTP/1.1" 200 -
+2025-08-14 19:57:31,240 - app - INFO - User 'admin' logged in successfully.
+2025-08-14 19:57:31,242 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:31] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-08-14 19:57:31,260 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:31] "[32mGET /home HTTP/1.1[0m" 302 -
+2025-08-14 19:57:31,310 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:31] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-14 19:57:31,358 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 19:57:31,366 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:31] "GET /static/admin_script.js HTTP/1.1" 200 -
+2025-08-14 19:57:38,294 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:38] "GET /admin/users HTTP/1.1" 200 -
+2025-08-14 19:57:38,342 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 19:57:38,347 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:38] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-14 19:57:44,077 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:44] "GET /admin/feedback HTTP/1.1" 200 -
+2025-08-14 19:57:44,128 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 19:57:44,139 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:44] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-14 19:57:45,942 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:45] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-14 19:57:45,992 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 19:57:45,998 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:45] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-14 19:57:47,493 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:47] "GET /admin/checks HTTP/1.1" 200 -
+2025-08-14 19:57:47,538 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 19:57:47,545 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:47] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-14 19:57:50,095 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:50] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-08-14 19:57:50,147 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 19:57:50,161 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 19:57:50] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-08-14 20:00:46,838 - app - INFO - Application starting up...
+2025-08-14 20:00:46,978 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-14 20:00:46,978 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-14 20:00:46,981 - werkzeug - INFO -  * Restarting with stat
+2025-08-14 20:00:48,581 - app - INFO - Application starting up...
+2025-08-14 20:00:48,673 - werkzeug - WARNING -  * Debugger is active!
+2025-08-14 20:00:48,675 - werkzeug - INFO -  * Debugger PIN: 114-425-765
+2025-08-14 20:00:53,088 - app - INFO - User 'admin' logged out successfully.
+2025-08-14 20:00:53,090 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:00:53] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-08-14 20:00:53,130 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:00:53] "GET /login HTTP/1.1" 200 -
+2025-08-14 20:00:53,276 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:00:53] "GET /static/style.css HTTP/1.1" 200 -
+2025-08-14 20:00:57,510 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:00:57] "GET /login/admin HTTP/1.1" 200 -
+2025-08-14 20:00:57,563 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:00:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 20:01:02,271 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:01:02] "GET /login HTTP/1.1" 200 -
+2025-08-14 20:01:02,330 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:01:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 20:01:04,320 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:01:04] "GET /login/client HTTP/1.1" 200 -
+2025-08-14 20:01:04,362 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:01:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 20:01:18,127 - app - WARNING - Failed client login attempt for username: 'admin' from IP: 127.0.0.1
+2025-08-14 20:01:18,130 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:01:18] "POST /login/client HTTP/1.1" 200 -
+2025-08-14 20:01:18,176 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:01:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 20:01:22,204 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:01:22] "GET /login HTTP/1.1" 200 -
+2025-08-14 20:01:22,255 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:01:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 20:01:23,929 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:01:23] "GET /login/admin HTTP/1.1" 200 -
+2025-08-14 20:01:23,988 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:01:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 20:01:32,556 - app - WARNING - Failed admin login attempt for username: 'client' from IP: 127.0.0.1
+2025-08-14 20:01:32,558 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:01:32] "POST /login/admin HTTP/1.1" 200 -
+2025-08-14 20:01:32,629 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:01:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-08-14 20:01:35,649 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:01:35] "GET /login HTTP/1.1" 200 -
+2025-08-14 20:01:35,702 - werkzeug - INFO - 127.0.0.1 - - [14/Aug/2025 20:01:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:28:19,638 - app - INFO - Application starting up...
+2025-09-03 05:28:19,904 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-09-03 05:28:19,905 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-03 05:28:19,906 - werkzeug - INFO -  * Restarting with stat
+2025-09-03 05:28:20,829 - app - INFO - Application starting up...
+2025-09-03 05:28:20,886 - werkzeug - WARNING -  * Debugger is active!
+2025-09-03 05:28:20,897 - werkzeug - INFO -  * Debugger PIN: 513-447-584
+2025-09-03 05:28:26,248 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:28:26] "GET / HTTP/1.1" 200 -
+2025-09-03 05:28:26,368 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:28:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:28:26,618 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:28:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-03 05:29:11,232 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:29:11] "GET /login/client HTTP/1.1" 200 -
+2025-09-03 05:29:11,256 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:29:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:29:17,253 - app - WARNING - Failed client login attempt for username: 'Reezwan' from IP: 127.0.0.1
+2025-09-03 05:29:17,255 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:29:17] "POST /login/client HTTP/1.1" 200 -
+2025-09-03 05:29:17,276 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:29:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:29:41,676 - app - WARNING - Failed client login attempt for username: 'reezwan' from IP: 127.0.0.1
+2025-09-03 05:29:41,677 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:29:41] "POST /login/client HTTP/1.1" 200 -
+2025-09-03 05:29:41,701 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:29:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:29:56,169 - app - WARNING - Failed client login attempt for username: 'demo' from IP: 127.0.0.1
+2025-09-03 05:29:56,170 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:29:56] "POST /login/client HTTP/1.1" 200 -
+2025-09-03 05:29:56,193 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:29:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:30:00,620 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:00] "GET /login HTTP/1.1" 200 -
+2025-09-03 05:30:00,645 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:30:02,499 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:02] "GET /register HTTP/1.1" 200 -
+2025-09-03 05:30:02,521 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:30:10,131 - app - WARNING - Registration attempt failed for 'Reezwan': Username already exists.
+2025-09-03 05:30:10,132 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:10] "POST /register HTTP/1.1" 200 -
+2025-09-03 05:30:10,158 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:30:14,287 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:14] "GET /login HTTP/1.1" 200 -
+2025-09-03 05:30:14,313 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:30:16,311 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:16] "GET /login/client HTTP/1.1" 200 -
+2025-09-03 05:30:16,348 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:30:23,704 - app - WARNING - Failed client login attempt for username: 'Reezwan' from IP: 127.0.0.1
+2025-09-03 05:30:23,706 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:23] "POST /login/client HTTP/1.1" 200 -
+2025-09-03 05:30:23,729 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:30:33,359 - app - WARNING - Failed client login attempt for username: 'Reezwan' from IP: 127.0.0.1
+2025-09-03 05:30:33,360 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:33] "POST /login/client HTTP/1.1" 200 -
+2025-09-03 05:30:33,382 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:30:35,325 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:35] "GET /login HTTP/1.1" 200 -
+2025-09-03 05:30:35,351 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:30:37,442 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:37] "GET /register HTTP/1.1" 200 -
+2025-09-03 05:30:37,470 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:30:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:31:03,398 - app - INFO - New user registered: 'reez' with role 'client'.
+2025-09-03 05:31:03,399 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:31:03] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-09-03 05:31:03,406 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:31:03] "GET /login HTTP/1.1" 200 -
+2025-09-03 05:31:03,433 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:31:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:31:07,117 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:31:07] "GET /login/client HTTP/1.1" 200 -
+2025-09-03 05:31:07,142 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:31:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:31:19,414 - app - INFO - User 'reez' logged in successfully as client.
+2025-09-03 05:31:19,415 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:31:19] "[32mPOST /login/client HTTP/1.1[0m" 302 -
+2025-09-03 05:31:19,457 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:31:19] "GET /client_dashboard HTTP/1.1" 200 -
+2025-09-03 05:31:19,483 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:31:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:31:19,509 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:31:19] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-09-03 05:32:14,410 - app - INFO - User 'reez' submitted URL for check: 'https://hackr.io/tutorials/learn-user-interface-design'
+2025-09-03 05:32:15,063 - app - ERROR - Error checking with Google Safe Browse API for URL https://hackr.io/tutorials/learn-user-interface-design: 404 Client Error: Not Found for url: https://safebrowse.googleapis.com/v4/threatMatches:find?key=AIzaSyD6ErrsWyvbW7eiLepLlFmkxjXZ2ZPELig
+2025-09-03 05:32:15,064 - app - WARNING - Safe Browse API issue or skip. Proceeding with heuristics only for URL: https://hackr.io/tutorials/learn-user-interface-design
+2025-09-03 05:32:15,509 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:32:15] "POST /check_url HTTP/1.1" 200 -
+2025-09-03 05:32:19,372 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:32:19] "GET /client_dashboard HTTP/1.1" 200 -
+2025-09-03 05:32:19,393 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:32:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:32:19,396 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:32:19] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-09-03 05:32:31,222 - app - INFO - User 'reez' submitted URL for check: 'https://projectworlds.in/tag/gym-management-system-project-in-python-tkinter/'
+2025-09-03 05:32:31,551 - app - ERROR - Error checking with Google Safe Browse API for URL https://projectworlds.in/tag/gym-management-system-project-in-python-tkinter/: 404 Client Error: Not Found for url: https://safebrowse.googleapis.com/v4/threatMatches:find?key=AIzaSyD6ErrsWyvbW7eiLepLlFmkxjXZ2ZPELig
+2025-09-03 05:32:31,552 - app - WARNING - Safe Browse API issue or skip. Proceeding with heuristics only for URL: https://projectworlds.in/tag/gym-management-system-project-in-python-tkinter/
+2025-09-03 05:32:31,613 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:32:31] "POST /check_url HTTP/1.1" 200 -
+2025-09-03 05:32:34,165 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:32:34] "GET /client_dashboard HTTP/1.1" 200 -
+2025-09-03 05:32:34,193 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:32:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:32:34,196 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:32:34] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-09-03 05:33:19,195 - app - INFO - User 'reez' logged out successfully.
+2025-09-03 05:33:19,196 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:33:19] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-09-03 05:33:19,207 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:33:19] "GET /login HTTP/1.1" 200 -
+2025-09-03 05:33:19,239 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:33:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:33:20,558 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:33:20] "GET /login/admin HTTP/1.1" 200 -
+2025-09-03 05:33:20,595 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:33:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:33:29,880 - app - WARNING - Failed admin login attempt for username: 'admin' from IP: 127.0.0.1
+2025-09-03 05:33:29,881 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:33:29] "POST /login/admin HTTP/1.1" 200 -
+2025-09-03 05:33:29,904 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:33:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:33:41,056 - app - WARNING - Failed admin login attempt for username: 'admin' from IP: 127.0.0.1
+2025-09-03 05:33:41,057 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:33:41] "POST /login/admin HTTP/1.1" 200 -
+2025-09-03 05:33:41,087 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:33:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:33:49,252 - app - INFO - User 'admin' logged in successfully as admin.
+2025-09-03 05:33:49,254 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:33:49] "[32mPOST /login/admin HTTP/1.1[0m" 302 -
+2025-09-03 05:33:49,282 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:33:49] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-09-03 05:33:49,307 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:33:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:33:49,329 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:33:49] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-09-03 05:34:15,968 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:34:15] "GET /admin/users HTTP/1.1" 200 -
+2025-09-03 05:34:15,998 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:34:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:34:16,001 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:34:16] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-09-03 05:34:55,375 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:34:55] "GET /admin_dashboard HTTP/1.1" 200 -
+2025-09-03 05:34:55,401 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:34:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:34:55,404 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:34:55] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
+2025-09-03 05:34:57,522 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:34:57] "GET /admin/feedback HTTP/1.1" 200 -
+2025-09-03 05:34:57,546 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:34:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-03 05:34:57,549 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 05:34:57] "[36mGET /static/admin_script.js HTTP/1.1[0m" 304 -
